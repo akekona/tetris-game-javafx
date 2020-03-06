@@ -3,7 +3,7 @@
 Tetris game created using JavaFX.  
 This app is a rendition of an app created following a tutorial by Gaspared [(Youtube)](https://www.youtube.com/watch?v=boAJUSN8fOU)
 
-This was created during my time at Code Chrysalis.
+_This was created during my time as a student at <a href="https://www.codechrysalis.io/" target="_blank">Code Chrysalis</a>._
 
 ## Set Up
 ### ・Configure environment for JavaFX
